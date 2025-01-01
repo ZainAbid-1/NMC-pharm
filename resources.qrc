@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/Glance-picture.jpg</file>
+        <file>resources/pixelcut-export.jpeg</file>
+    </qresource>
+</RCC>
